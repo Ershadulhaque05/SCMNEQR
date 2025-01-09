@@ -26,3 +26,6 @@ points of view.
 
 Index Terms— Quantum image, representation, compression,
 SCMFRQI, State preparation
+
+
+Full paper link: https://ieeexplore.ieee.org/document/10094832
