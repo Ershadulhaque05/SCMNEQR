@@ -23,3 +23,6 @@ further reduction of required qubits. The experimental results
 confirm that the proposed method outperforms the existing
 methods in terms of both image representation and compression
 points of view.
+
+Index Terms— Quantum image, representation, compression,
+SCMFRQI, State preparation
